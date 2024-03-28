@@ -3,3 +3,5 @@ The Transformer model uses `self-attention` to compute representations of input 
 * feed-forward neural network
 * residual connections
 * layer normalization
+* incontext learning (ICL)
+* 
